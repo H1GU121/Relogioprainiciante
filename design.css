@@ -1,0 +1,42 @@
+header
+{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+body
+{
+    background-color: burlywood;
+}
+
+.other
+{
+    height: 120px;
+    width: 190px;
+
+    background-color: coral;
+}
+
+#hour
+{
+    height: 50px;
+    background-color: cyan;
+}
+
+#minute
+{
+    height: 50px;
+    background-color: cyan;
+}
+
+#second
+{
+    height: 50px;
+    background-color: cyan;
+}
+
+.clock
+{
+    text-align: center;
+    background-color: cornflowerblue;
+}
